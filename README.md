@@ -1,16 +1,17 @@
-# unit_test_app
+# Provider Example
+## Ishlatilgan texnalogiyalar
+1. Provider          - Arxitektura uchun
+2. BottomNavigation  - Bottom menu 
+3. IndexedStack      - Menudagi screen statelarini saqlab qolish uchun
 
-A new Flutter project.
+## Dastur sxemasi
+![Dastur sxemasi](github_files/scheme.png)
 
-## Getting Started
+## Dasturdan screenlar
+(github_files/screen1.jpg)
+(github_files/screen2.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Bog'lanish uchun
+[Telegram](https://t.me/abbos2101)
+[Facebook](https://www.facebook.com/abbos.bobomurodov.2101)
